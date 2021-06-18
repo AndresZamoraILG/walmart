@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/App" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Batch" isTestSource="false" packagePrefix="App\Batch\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Controllers" isTestSource="false" packagePrefix="App\Controllers\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Controllers/Base" isTestSource="false" packagePrefix="App\Controllers\Base\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Emails" isTestSource="false" packagePrefix="App\Emails\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Entidades" isTestSource="false" packagePrefix="App\Entidades\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Entidades/Base" isTestSource="false" packagePrefix="App\Entidades\Base\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Librerias" isTestSource="false" packagePrefix="App\Librerias\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Models" isTestSource="false" packagePrefix="App\Models\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Models/Base" isTestSource="false" packagePrefix="App\Models\Base\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Repositorios" isTestSource="false" packagePrefix="App\Repositorios\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Repositorios/Base" isTestSource="false" packagePrefix="App\Repositorios\Base\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Rest" isTestSource="false" packagePrefix="App\Rest\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Textos" isTestSource="false" packagePrefix="App\Textos\" />
+      <sourceFolder url="file://$MODULE_DIR$/App/Vistas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/App/WS" isTestSource="false" packagePrefix="App\WS\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/wingu/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php2wsdl/php2wsdl" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
